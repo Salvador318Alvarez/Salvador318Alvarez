@@ -31,7 +31,7 @@
 <h3></h3>
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="45" height="45" />
-<img src="https://api.iconify.design/simple-icons/supabase.svg?color=green" alt="firebase" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="45" height="45" />
 </p>
 
 <!-- 
