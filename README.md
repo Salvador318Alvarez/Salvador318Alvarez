@@ -1,4 +1,4 @@
- [![Salvador's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvador318alvarez&count_private=true&show_icons=true&theme=highcontrast&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+ [![Salvador's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvador318alvarez&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
  
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <h3></h3>
